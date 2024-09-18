@@ -65,4 +65,4 @@ This project is an interactive website featuring animations for text and images 
   ```
 
 ## Live Demo
-[Click here to view the live demo](#)
+[[Click here to view the live demo](#)](https://alex-borisov92.github.io/animation-gasp-modified)
